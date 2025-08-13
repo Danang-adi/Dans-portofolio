@@ -25,11 +25,8 @@ Proyek ini menampilkan informasi pribadi, skill, dan project yang pernah dibuat,
   - Projects
   - Contact (dengan integrasi EmailJS)
 
-## 📷 Preview
-
-
 ## ⚙️ Instalasi & Menjalankan Project
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/portfolio.git
-   cd portfolio
+   git clone https://github.com/Danang-adi/Dans-portofolio.git
+   cd Dans-portofolio
