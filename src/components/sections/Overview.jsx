@@ -1,5 +1,4 @@
 import { GraduationCap, BriefcaseBusiness  } from 'lucide-react';
-import ScrollReveal from "../ScrollReveal/ScrollReveal";
 import { RevealOnScroll } from "../RevealOnScroll"
 
 export const Overview = () => {
@@ -27,15 +26,8 @@ export const Overview = () => {
                 <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">Overview</h2>
                 <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                     <p className="text-gray-300 mb-6" >
-                        <ScrollReveal
-                            baseOpacity={0}
-                            enableBlur={true}
-                            baseRotation={5}
-                            blurStrength={10}
-                        >
                             Passionate developer with a strong eagerness to learn and grow, currently exploring 
-                            both frontend and backend technologies to become a Full Stack Developer.
-                        </ScrollReveal>                        
+                            both frontend and backend technologies to become a Full Stack Developer.                     
                     </p>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
