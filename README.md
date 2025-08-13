@@ -1,12 +1,35 @@
-# React + Vite
+# 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portofolio pribadi yang dibuat menggunakan **React + Vite + Tailwind CSS**, dirancang untuk responsif di semua perangkat.  
+Proyek ini menampilkan informasi pribadi, skill, dan project yang pernah dibuat, dengan sentuhan animasi dan efek visual.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **React** – Library JavaScript untuk membangun UI
+- **Vite** – Build tool modern untuk development yang cepat
+- **Tailwind CSS** – Utility-first CSS framework untuk styling
+- **React Bits** – Menggunakan komponen **Light Rays** untuk efek latar belakang
+- **Lucide React** – Icon yang modern dan ringan
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Fitur
+- Tampilan modern & responsif
+- Navigasi dengan menu mobile
+- Efek **Light Rays** di background
+- Ikon interaktif dari Lucide React
+- Section:
+  - Home
+  - Overview
+  - Projects
+  - Contact (dengan integrasi EmailJS)
+
+## 📷 Preview
+
+
+## ⚙️ Instalasi & Menjalankan Project
+1. Clone repository ini
+   ```bash
+   git clone https://github.com/username/portfolio.git
+   cd portfolio
